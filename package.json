@@ -1,0 +1,16 @@
+{
+  "name": "ts-build",
+  "version": "1.0.0",
+  "description": "a specific tiny build helper for typescript projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miginmrs/ts-build.git"
+  },
+  "author": "miginmrs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miginmrs/ts-build/issues"
+  },
+  "homepage": "https://github.com/miginmrs/ts-build#readme"
+}
